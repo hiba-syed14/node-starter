@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "playing around with npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiba-syed14/node-starter.git"
+  },
+  "author": "Hiba Syed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiba-syed14/node-starter/issues"
+  },
+  "homepage": "https://github.com/hiba-syed14/node-starter#readme"
+}
